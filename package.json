@@ -1,6 +1,6 @@
 {
   "name": "ramdom-spanish-words",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate one or more common Spanish words",
   "main": "index.js",
   "scripts": {
