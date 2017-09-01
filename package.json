@@ -1,0 +1,24 @@
+{
+  "name": "ramdom-spanish-words",
+  "version": "0.0.1",
+  "description": "Generate one or more common Spanish words",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marcomedina/random-spanish-words.git"
+  },
+  "keywords": [
+    "random",
+    "spanish",
+    "words"
+  ],
+  "author": "Marco Medina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcomedina/random-spanish-words/issues"
+  },
+  "homepage": "https://github.com/marcomedina/random-spanish-words#readme"
+}
