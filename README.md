@@ -6,7 +6,7 @@
 
 Installation:
 
-    npm install random-words
+    npm install random-spanish-words
 
 Examples:
 
