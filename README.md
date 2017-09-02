@@ -10,7 +10,7 @@ Installation:
 
 Examples:
 
-    var randomWords = require('random-words');
+    var randomWords = require('random-spanish-words');
 
     console.log(randomWords());
     hola
