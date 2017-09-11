@@ -105,7 +105,7 @@ var wordList = ['a', 'abajo', 'abandonar', 'abrir', 'absoluta', 'absoluto', 'abu
 'vecino', 'veinte', 'velocidad', 'vender', 'venir', 'ventana', 'ver', 'verano', 'verdad', 'verdadera',
 'verdadero', 'verde', 'vestir', 'vez', 'viaje', 'vida', 'vieja', 'viejo', 'viento', 'violencia',
 'vista', 'viva', 'vivir', 'vivo', 'voces', 'voluntad', 'volver', 'voz', 'vuelta', 'y',
-'ya', 'yo', 'zona' 'árbol', 'él', 'época', 'ésta', 'éste', 'éxito', 'última',
+'ya', 'yo', 'zona', 'árbol', 'él', 'época', 'ésta', 'éste', 'éxito', 'última',
 'último', 'única', 'único']
 
 function words(options) {
